@@ -49,3 +49,8 @@ To set up this project locally:
    pip install -r requirements.txt  inside a virtual environment.
    ```
 ```
+```
+Explore Data
+``
+
+Country analysis: notebooks/individual_analysis/
